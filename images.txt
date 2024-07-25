@@ -1,4 +1,8 @@
 nginx
+mysql:8.0.39
+redis:7.2.5
+openjdk:24-jdk
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
