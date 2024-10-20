@@ -1,4 +1,5 @@
 nginx
+pgvector/pgvector:0.7.4-pg17
 mysql:8.0.39
 redis:7.2.5
 openjdk:24-jdk
